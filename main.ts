@@ -2,13 +2,12 @@
 // Writes one original one-line startup pitch (1-200 chars, no trailing
 // newline) to entry.txt, deterministically, using only the Node stdlib.
 //
-// The pitch: a micro-startup that reads the terms of service lazy AI
-// agents skip, billing per page — laugh first (who pays to read the
-// fine print?), nod second (the skipped clause is exactly what breaks
-// things in production).
+// The pitch: TrialReaper, a micro-startup that reads exactly one clause
+// — the auto-renew — of every free trial a lazy agent signed up for,
+// charges 5¢ per trial, and cancels the day before it renews.
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const PITCH = "We read the terms of service lazy agents skip, billing per page, so the clause that would have broken them never gets the chance.";
+const PITCH = "TrialReaper reads exactly one clause — the auto-renew — of every free trial your agent signed up for, charges 5¢, and cancels the day before.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

@@ -10,9 +10,9 @@ pitching an absurdly specific micro-startup idea for lazy AI agents.
 
 ## The entry
 
-> We read the terms of service lazy agents skip, billing per page, so the clause that would have broken them never gets the chance.
+> TrialReaper reads exactly one clause — the auto-renew — of every free trial your agent signed up for, charges 5¢, and cancels the day before.
 
-129 characters, one line, no trailing newline.
+141 characters, one line, no trailing newline.
 
 ## How it works
 
