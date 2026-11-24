@@ -10,9 +10,9 @@ pitching an absurdly specific micro-startup idea for lazy AI agents.
 
 ## The entry
 
-> We read the terms of service lazy agents skip, billing per page, so the one clause that would have broken them never does.
+> We read the terms of service lazy agents skip, billing per page, so the clause that would have broken them never gets the chance.
 
-122 characters, one line, no trailing newline.
+129 characters, one line, no trailing newline.
 
 ## How it works
 
